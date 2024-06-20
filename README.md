@@ -63,8 +63,67 @@
 
 ### Linguistics, Prosodics, and Response Quality
 
+#### Reasoning
+1. "Towards Academically Productive Talk Supported by Conversational Agents" by Gregory Dyke, David Adamson, Iris Howley, and Carolyn P. Rosé
+2. "AI-Supported Messaging: An Investigation of Human-Human Text Conversation with AI Support" by Jess Hohenstein and Malte Jung
+3. "Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant" by Qiaosi Wang et al.
+
+#### Transactivity
+1. "Towards Academically Productive Talk Supported by Conversational Agents" by Gregory Dyke, David Adamson, Iris Howley, and Carolyn P. Rosé
+2. "Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiency and Participation with a Chatbot" by Soomin Kim et al.
+3. "Moderator Chatbot for Deliberative Discussion: Effects of Discussion Structure and Discussant Facilitation" by Soomin Kim et al.
+4. "Exploring the Effectiveness of Social Capabilities and Goal Alignment in Computer Supported Collaborative Learning" by Hua Ai et al.
+5. "Four-participant group conversation: A facilitation robot controlling engagement density as the fourth participant" by Yoichi Matsuyama et al.
+6. "Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant" by Qiaosi Wang et al.
+
+#### Heteroglossia
+1. "Towards Academically Productive Talk Supported by Conversational Agents" by Gregory Dyke, David Adamson, Iris Howley, and Carolyn P. Rosé
+2. "Understanding Chatbot-mediated Task Management" by Soomin Kim et al.
+3. "Software Agent-Monitored Tutorials Enabling Collaborative Learning in Computer-Aided Design and Analysis" by J. L. Beuth et al.
+4. "Chatbot-based Emotion Management for Distributed Teams: A Participatory Design Study" by Ivo Benke et al.
+5. "SearchBots: User Engagement with ChatBots during Collaborative Search" by Sandeep Avula et al.
+
 ### Task Performance
 
+#### Classroom Discussion Participation
+1. "Towards Academically Productive Talk Supported by Conversational Agents" by Gregory Dyke, David Adamson, Iris Howley, and Carolyn P. Rosé
+2. "Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiency and Participation with a Chatbot" by Soomin Kim et al.
+
+#### Learning Gains
+1. "Towards Academically Productive Talk Supported by Conversational Agents" by Gregory Dyke, David Adamson, Iris Howley, and Carolyn P. Rosé
+2. "Exploring the Effectiveness of Social Capabilities and Goal Alignment in Computer Supported Collaborative Learning" by Hua Ai et al.
+3. "Socially-capable Conversational Tutors can be Effective in Collaborative-Learning situations" by Rohit Kumar et al.
+   
+#### Agent Behaviors Elicitation
+1. "Social Boundaries for Personal Agents in the Interpersonal Space of the Home" by Michal Luria et al.
+2. "Botivist: Calling Volunteers to Action using Online Bots" by Saiph Savage et al.
+3. "It Takes a Village: Integrating an Adaptive Chatbot into an Online Gaming Community" by Joseph Seering et al.
+4. "Designing Chatbots as Community-Owned Agents" by Michal Luria et al.
+5. "Designing Multiparty Interaction Support in Elva, an Embodied Tour Guide" by Jun Zheng et al.
+
+#### User Preferences
+1. "Social Boundaries for Personal Agents in the Interpersonal Space of the Home" by Michal Luria et al.
+2. "Moderator Chatbot for Deliberative Discussion: Effects of Discussion Structure and Discussant Facilitation" by Soomin Kim et al.
+3. "Calendar.help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop" by Justin Cranshaw et al.
+4. "Exploring the Effectiveness of Social Capabilities and Goal Alignment in Computer Supported Collaborative Learning" by Hua Ai et al.
+   
 ### Socio-Emotional Intelligence
 
+#### Social Roles and Boundaries
+1. "Social Boundaries for Personal Agents in the Interpersonal Space of the Home" by Michal Luria et al.
+2. "Exploring the Effectiveness of Social Capabilities and Goal Alignment in Computer Supported Collaborative Learning" by Hua Ai et al.
+3. "She is just stupid": Analyzing user–agent interactions in emotional game situations by Matthias Rehm
+4. "Not Some Random Agent: Multi-person Interaction with a Personalizing Service Robot" by Samantha Reig et al.
+5. "Effects of Conversational Agents on Human Communication in Thought-Evoking Multi-Party Dialogues" by Kohji Dohsaka et al.
+
+#### Privacy and Judgment
+1. "Social Boundaries for Personal Agents in the Interpersonal Space of the Home" by Michal Luria et al
+2. "Not Some Random Agent: Multi-person Interaction with a Personalizing Service Robot" by Samantha Reig et al
+3. "Can Software Agents Influence Human Relations? Balance Theory in Agent-mediated Communities" by Hideyuki Nakanishi et al.
+   
 ### Ethics and Risks
+
+#### Privacy Concerns
+1. "Social Boundaries for Personal Agents in the Interpersonal Space of the Home" by Michal Luria et al
+2. "Calendar.help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop" by Justin Cranshaw et al.
+3. "AI-Supported Messaging: An Investigation of Human-Human Text Conversation with AI Support" by Jess Hohenstein and Malte Jung
